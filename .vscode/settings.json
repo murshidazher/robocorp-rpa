@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/murshidazher/dev/src/github/robocorp-rpa/03_desktop_app_automation/."
+  ],
+  "python.terminal.activateEnvironment": false
+}
